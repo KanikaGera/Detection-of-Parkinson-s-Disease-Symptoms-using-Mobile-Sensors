@@ -6,7 +6,7 @@ Data collected from users is preprocessed and feature engineered . The processed
 
 The design used to collect data is shown in following figure.
 
-![Infrastructure Design](/images/data_collection_structure.png)
+![Infrastructure Design](images/data_collection_structure.PNG)
 
 Feature Engineering notebooks and Exploratory Data Analysis Notebooks are in "Machine Learning Code" subfolder in Code. It consist of ML.ipynb which uses the 
 feature engineered data , and various ML algorithms to predict presense of Tremor as Parkinson Disease Symptom.

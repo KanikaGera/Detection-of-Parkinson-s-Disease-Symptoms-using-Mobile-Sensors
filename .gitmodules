@@ -1,0 +1,3 @@
+[submodule "Code/Azure"]
+	path = Code/Azure
+	url = https://github.com/alexandergg/Detect-Parkinson-Symptons-AzureML
